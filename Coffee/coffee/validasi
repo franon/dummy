@@ -1,0 +1,28 @@
+
+<!-- Validation -->
+<!-- Validasi Nama -->
+<!-- <script type="text/javascript">
+$(document).ready(function(){
+  $('#formdaftar').submit(function(){ //Dijalankan Saat form disubmit
+    if($('#nama').val()=='') { //cek nama harus diisi
+      alert('Nama Harus Diisi'); //kursor focus di Nama
+      $('#nama').focus();
+      return false;
+    }
+else {
+      return true;
+    }
+
+  })
+
+})
+</script> -->
+
+
+
+<!-- validasi Form -->
+<script type="text/javascript">
+$(document).ready(function(){
+  
+});
+</script>

@@ -1,0 +1,67 @@
+body,html{
+    margin: 0px;
+    color: #000;
+    background: #2b579a;
+}
+
+#container{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-color: #fff;
+}
+
+#header{
+    padding: 10px;
+    background: #ddd;
+    text-align: center;
+}
+#nav{
+    padding: 5px 1px;
+    backgorund: #c99;
+    text-align: center;
+}
+#nav ul{
+    margin: 0px;
+    padding: 0px;
+    list-style:none;
+}
+#nav li{
+    display: inline;
+}
+
+#main{
+    float: left;
+    width: 900px;
+    padding: 10px;
+    min-height: 400px;
+}
+
+.judul{
+    color: orange;
+    font-family: verdana;
+}
+
+.berhasil {
+    color: wheat;
+    background-color: green;
+    display: inline;
+}
+
+.gagal {
+    color: wheat;
+    background-color: red;
+    display: inline;
+}
+
+.judulberita{
+    font-size: 25px;
+    color: geen;
+}
+
+#footer{
+    clear: both;
+    background: #c99;
+    text-align: center;
+}
